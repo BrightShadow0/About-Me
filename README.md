@@ -26,4 +26,3 @@ I'm also continuously exploring web development, programming, and AI through pro
 ## Connect
 
 - [LinkedIn](https://in.linkedin.com/in/sheldon-menezes)
-- [GitHub](https://github.com/BrightShadow0)
