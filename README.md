@@ -4,11 +4,11 @@ I'm a **MBATech Computer Engineering student at NMIMS MPSTME**, interested in so
 
 ## About Me
 
-- Studying Computer Engineering at **NMIMS MPSTME**
-- Exploring **software development, AI, and emerging technologies**
-- Building projects to learn through hands-on experience
-- Interested in hackathons, student technology communities, and collaborative projects
-
+1. I am currently pursuing Computer Engineering from NMIMS MPSTME.
+2. I have a wide range of interests which include software development, artificial intelligence, as well as other emerging technologies.
+3. Construction of ventures through direct practice is one of the ways that I employ to gain knowledge.
+4. In addition, I love taking part in hackathons, being part of student technology communities, and working together on shared assignments.
+5. 
 ## What I'm Working On
 
 ### LifeFlow
@@ -20,8 +20,10 @@ I'm also continuously exploring web development, programming, and AI through pro
 
 - **ACM MPSTME**
 - **Computer Society of India (CSI)**
-- **Smart India Hackathon 2026**
-- Student hackathons and technology events
+
+
+- **Smart India Hackathon 2026 participant**
+- Student hackathons and technology events hosted by committees in the college
 
 ## Connect
 
