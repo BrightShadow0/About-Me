@@ -8,7 +8,7 @@ I'm a **MBATech Computer Engineering student at NMIMS MPSTME**, interested in so
 2. I have a wide range of interests which include software development, artificial intelligence, as well as other emerging technologies.
 3. Construction of ventures through direct practice is one of the ways that I employ to gain knowledge.
 4. In addition, I love taking part in hackathons, being part of student technology communities, and working together on shared assignments.
-5. 
+
 ## What I'm Working On
 
 ### LifeFlow
